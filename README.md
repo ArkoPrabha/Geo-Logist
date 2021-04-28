@@ -1,1 +1,2 @@
-# Geo-Logist
+# Geologist
+Geologist Project
